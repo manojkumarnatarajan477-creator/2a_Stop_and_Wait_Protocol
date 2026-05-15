@@ -50,7 +50,8 @@ for i in range(n):
 s.close()
 ```
 ## OUTPUT
-<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/797a53e3-92e2-46a8-9082-bc9bdaaa3102" />
+<img width="1918" height="988" alt="image" src="https://github.com/user-attachments/assets/631e6714-d3c8-4673-88d1-971d7006aa4a" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
